@@ -1,0 +1,6 @@
+# Ignore credentials and token files
+*.json
+
+# Ignore executables
+gdrive-manager
+gdrive-manager.exe
